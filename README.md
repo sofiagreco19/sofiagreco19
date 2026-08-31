@@ -7,7 +7,7 @@ Hello My name is Sofia Greco I studied Game design and interactive media at Mich
 
 💻 My [Portfolio](https://www.sofiagreco.org/)
 
-![alt text](/Users/sofiagreco/Documents/Petersen-Automotive-Museum-10.heic)
+![National Student leadership](/Users/sofiagreco/Documents/Petersen-Automotive-Museum-10.heic)
 
 
 
